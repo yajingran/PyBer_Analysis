@@ -3,6 +3,7 @@ Analysis for PyBer company
 ## Overview of Project
 The project was to performace an exploratory analysis on data in various csv files and create visualizations to tell the story behind the data. In the challenge file, we created a summary DataFrame of the ride-sharing data by city type. A multiple-line graph in the file shows the total weekly fares for each city type.
 ## Results
+![pyber_summary](Resources/pyber_summary.png)
 **Total Rides**: The highest number of total rides happens in urbna areas. Suburban area has the second highest of total rides number, but it is less than half of urban total rides. Rural areas only have over a hundred total rides numbers.
 <br />**Total Drivers**: The number of total drivers in urban, suburban and rural areas seem proportionate to the total rides. As a result, urban has the highest number of drivers which is over 2,000, suburban has the second highest number of total drivers, and rural areas has the least number of drivers.
 <br />**Total Fares**: Urban areas generate almost $40,000 amount of fares. Suburban areas generate almost $20,000 amount of fares that is aprroximately half of urban total fares. Rural areas generate over $4,000 amount of total fares that is a little over 1/10 of the amount of urban total fares.
